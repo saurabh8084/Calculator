@@ -29,4 +29,4 @@ You can customize the look and feel of the calculator by modifying the CSS style
 
 **Compatibility**
 
-This calculator has been tested on modern web browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge. It may not work properly on older browsers that lack support for HTML5 an
+This calculator has been tested on modern web browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge. It may not work properly on older browsers that lack support for HTML5 and CSS3 features.
